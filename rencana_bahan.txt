@@ -1,5 +1,7 @@
 rencana pembelajaran;
 
-GIT;
-JS;
-JAVA;
+- GIT :
+    GitLab;
+- JS  :
+    React
+- JAVA;
