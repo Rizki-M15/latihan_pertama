@@ -2,3 +2,5 @@ sedang belajar GIT
 pelajari secara perlahan.
 menambahkan text ke-3 di file ini.
 siang hari di bogor tidak panas.
+Buah sangat segar.
+nikmati saja.
