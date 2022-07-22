@@ -4,5 +4,8 @@ rencana pembelajaran;
     GitLab;
 - JS  :
     React
+    Angular
 - JAVA;
-FullStack;
+    Spring
+- PHP;
+Python
