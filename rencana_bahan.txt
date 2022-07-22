@@ -3,6 +3,10 @@ rencana pembelajaran;
 - GIT :
     GitLab;
 - JS  :
+    ES6
+    NodeJS
     React
+    Vue
 - JAVA;
+    Spring
 FullStack;
