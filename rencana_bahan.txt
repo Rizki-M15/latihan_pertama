@@ -5,3 +5,4 @@ rencana pembelajaran;
 - JS  :
     React
 - JAVA;
+FullStack;
