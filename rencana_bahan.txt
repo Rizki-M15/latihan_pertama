@@ -5,8 +5,11 @@ rencana pembelajaran;
 - JS  :
     ES6
     NodeJS
-    React
     Vue
+- PHP :
+    OOP PHP
+    LARAVEL 9
+    LARAVEL 10
 - JAVA;
     Spring
 FullStack;
